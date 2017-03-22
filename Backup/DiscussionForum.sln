@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscussionForum", "DiscussionForum\DiscussionForum.csproj", "{24CCAC77-DC3C-4195-AC1F-C3C5E5B6F48B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscussionForum.DataAccess", "DiscussionForum.DataAccess\DiscussionForum.DataAccess.csproj", "{2F133B67-7DA9-48AB-AE05-99198FC1A324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscussionForum.Model", "DiscussionForum.Model\DiscussionForum.Model.csproj", "{AAD1E7D6-5F98-4745-998D-A2D5C72C4CE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24CCAC77-DC3C-4195-AC1F-C3C5E5B6F48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CCAC77-DC3C-4195-AC1F-C3C5E5B6F48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CCAC77-DC3C-4195-AC1F-C3C5E5B6F48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CCAC77-DC3C-4195-AC1F-C3C5E5B6F48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F133B67-7DA9-48AB-AE05-99198FC1A324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F133B67-7DA9-48AB-AE05-99198FC1A324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F133B67-7DA9-48AB-AE05-99198FC1A324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F133B67-7DA9-48AB-AE05-99198FC1A324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD1E7D6-5F98-4745-998D-A2D5C72C4CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD1E7D6-5F98-4745-998D-A2D5C72C4CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD1E7D6-5F98-4745-998D-A2D5C72C4CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD1E7D6-5F98-4745-998D-A2D5C72C4CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

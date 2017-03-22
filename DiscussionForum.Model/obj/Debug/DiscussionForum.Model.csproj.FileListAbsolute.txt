@@ -1,0 +1,16 @@
+C:\Asp.net\Project\DiscussionForum\DiscussionForum.Model\bin\DiscussionForum.Model.dll
+C:\Asp.net\Project\DiscussionForum\DiscussionForum.Model\bin\DiscussionForum.Model.pdb
+C:\Asp.net\Project\DiscussionForum\DiscussionForum.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Asp.net\Project\DiscussionForum\DiscussionForum.Model\obj\Debug\DiscussionForum.Model.dll
+C:\Asp.net\Project\DiscussionForum\DiscussionForum.Model\obj\Debug\DiscussionForum.Model.pdb
+C:\Users\Amrit\Desktop\Proj\DiscussionForum\DiscussionForum.Model\bin\DiscussionForum.Model.dll
+C:\Users\Amrit\Desktop\Proj\DiscussionForum\DiscussionForum.Model\bin\DiscussionForum.Model.pdb
+C:\Users\Amrit\Desktop\Proj\DiscussionForum\DiscussionForum.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amrit\Desktop\Proj\DiscussionForum\DiscussionForum.Model\obj\Debug\DiscussionForum.Model.dll
+C:\Users\Amrit\Desktop\Proj\DiscussionForum\DiscussionForum.Model\obj\Debug\DiscussionForum.Model.pdb
+C:\Users\Hiren\Desktop\HirenBhavsar\NET_Projects\ASP.NET_Projects\DiscussionForumAspDotNet\DiscussionForum\DiscussionForum.Model\bin\DiscussionForum.Model.dll.config
+C:\Users\Hiren\Desktop\HirenBhavsar\NET_Projects\ASP.NET_Projects\DiscussionForumAspDotNet\DiscussionForum\DiscussionForum.Model\bin\DiscussionForum.Model.dll
+C:\Users\Hiren\Desktop\HirenBhavsar\NET_Projects\ASP.NET_Projects\DiscussionForumAspDotNet\DiscussionForum\DiscussionForum.Model\bin\DiscussionForum.Model.pdb
+C:\Users\Hiren\Desktop\HirenBhavsar\NET_Projects\ASP.NET_Projects\DiscussionForumAspDotNet\DiscussionForum\DiscussionForum.Model\obj\Debug\DiscussionForum.Model.csprojResolveAssemblyReference.cache
+C:\Users\Hiren\Desktop\HirenBhavsar\NET_Projects\ASP.NET_Projects\DiscussionForumAspDotNet\DiscussionForum\DiscussionForum.Model\obj\Debug\DiscussionForum.Model.dll
+C:\Users\Hiren\Desktop\HirenBhavsar\NET_Projects\ASP.NET_Projects\DiscussionForumAspDotNet\DiscussionForum\DiscussionForum.Model\obj\Debug\DiscussionForum.Model.pdb
